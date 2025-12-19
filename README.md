@@ -17,8 +17,8 @@
     <p align="center">
      <h3>About Me</h3>
     🌍  I'm based in Seville, Spain  <br />
-    ✉️  You can contact me at <a href="m.angel.d.oliva@gmail.com">m.angel.d.oliva@gmail.com</a>
-    My portfolio  <a href="[m.angel.d.oliva@gmail.com](https://portfolio-jet-three-83.vercel.app/#Projects)"
+    ✉️  You can contact me at <a href="m.angel.d.oliva@gmail.com">m.angel.d.oliva@gmail.com</a><br />
+    My portfolio  <a href="[https://portfolio-jet-three-83.vercel.app/#Projects](https://portfolio-jet-three-83.vercel.app/#Projects)"
     </p>
     <br /><br />
   <!--separator-->
